@@ -152,9 +152,9 @@ PVSegmentationForParkinsonsDisease/
 
 Clone the repository:
 
-git clone https://github.com/HIMANSHI549/PVSegmentationForParkinsonsDisease.git
+git clone https://github.com/HIMANSHI549/PVSegmentationForParkinson.git
 
-cd PVSegmentationForParkinsonsDisease
+cd PVSegmentationForParkinson
 
 Install dependencies:
 
